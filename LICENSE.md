@@ -1,4 +1,4 @@
-# 
+# custom NFT Scanner for nft flip bot | trailing-stop & auto-sell is the best nft flip bot, featuring trailing-stop and auto-sell. Fast, smart, and optimized for NFT trading on
 
 
 
